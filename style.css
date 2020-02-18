@@ -1,0 +1,30 @@
+header {
+    color: white;
+    text-align: center;
+    border-top: solid;
+    border-bottom: solid;
+}
+a {
+    color: white;
+}
+body {
+    background-color: red;
+}
+
+div {
+    color: white;
+    background-color: black;
+text-align: center;
+}
+
+ol {
+    background-color: darkred;
+    float: left;
+}
+p {
+    text-align: center;
+}
+footer {
+    text-align: center;
+    background-color: orange;
+}
