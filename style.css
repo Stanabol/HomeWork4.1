@@ -4,6 +4,9 @@ header {
 a {
     color: white;
 }
+.color {
+    color: #CE4C0D;
+}
 body {
     background-color: #970912;
 }
@@ -14,13 +17,18 @@ body {
     background-color: black;
     padding: 15px;
 }
-.titleright {
+
+table {
+    background-color: white;
+    width: 200px;
     float: right;
-    background-color:  white;
-    
 }
 
+th {
+    background-color: grey;
+}
 ul {
+    text-align: left;
     width: 200px;
     list-style: none;
     background-color: #7C0D12;
